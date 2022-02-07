@@ -1,0 +1,10 @@
+﻿Hello
+What time is it
+Can you open blender
+Can you open browser
+Can you play music for me
+Silent please
+Stop listening
+Close program
+Show commands
+Hide commands

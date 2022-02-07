@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiBot", "MaiBot\MaiBot.csproj", "{764057E9-C3F7-478A-8E6C-976145576C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764057E9-C3F7-478A-8E6C-976145576C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764057E9-C3F7-478A-8E6C-976145576C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764057E9-C3F7-478A-8E6C-976145576C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764057E9-C3F7-478A-8E6C-976145576C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E10EF85-E219-4C1B-9577-F37A7F642CFC}
+	EndGlobalSection
+EndGlobal
